@@ -124,7 +124,7 @@ The following table lists each U.S. state and district that requires us to colle
 
 Many customers using Linode for business or personal reasons may prefer to have Linode automatically calculate any required taxes and add them to each invoice. That said, some registered businesses or organizations may wish to prevent taxes from being added to their Linode invoices. This includes businesses that are tax exempt or businesses that are liable to pay taxes directly to their government's tax agency due to a special tax status or program (like RCM - Reverse Charge Mechanism).
 
-For eligible tax-exempt users in most countries, you can add your VAT or GST tax ID to your Linode account to have taxes removed from your invoices. See [Adding a Tax ID](#adding-a-tax-id) below for instructions on how to add your tax ID to your account.
+For eligible tax-exempt users in most countries, you can add your VAT or GST tax ID to your Linode account to have taxes removed from your invoices. See [Adde or update a Tax ID](#adding-a-tax-id) below for instructions on how to add your tax ID to your account.
 
 For users within the **United States** and **Canada**, you need to submit both your tax ID and state tax exemption or reseller's certificate via [Support Ticket](https://www.linode.com/support/) rather than adding your tax ID to your Linode account. This must happen before you are eligible to become exempt. Once approved, your tax ID will be added to your account by our team. Note that registered Canadian businesses may become exempt from PST sales tax but will always be billed for GST, HST, and QST sales tax.
 
@@ -132,19 +132,21 @@ For users within the **United States** and **Canada**, you need to submit both y
 If you are located in one of the countries that require taxes on our services, you are still liable for those taxes. Adding your tax ID does not exempt you from your liability to pay any taxes that have been mandated by your country for our services. Instead, this allows you to settle your taxes directly with your government's tax agency.
 {{< /note >}}
 
-### Adding a Tax ID
+### Add or update a Tax ID
 
-To add (or update) your account with a tax ID, follow the instructions below. A tax ID can also be added to an account during the signup process.
+A Tax Identification Number (TIN) can be added to an account during the signup process. You can also add or update it after you create an account. The TIN's format depend on the country you created the account for. To learn more about TINs in different countries, check the [OECD's Tax Identification Numbers](https://web-archive.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/index.htm) website.
 
-1. Log in to the [Cloud Manager](https://cloud.linode.com).
+To add or update your account with a tax ID:
 
-1. Navigate to the **Account** link in the sidebar.
+1. Log in to the [Cloud Manager](https://cloud.linode.com) and select **Account** from the left navigation menu.
 
-1. Expand the **Update Contact Information** panel under the **Billing Info** tab.
+1. In the **Billing Contact** pane, click **Edit**.
 
-1. Enter your tax ID in the **Tax ID** field.
+1. In the **Tax Identification Number** field, enter your tax ID.
 
-1. Click on the **Save** button at the bottom of the **Update Contact Information** panel.
+1. Click **Save**.
+
+Your Tax ID needs to be verified. You'll get two emails; first with the confirmation of the submitted change, second with the verification results. If the verification failed, it means that your input was incorrect and you need to update it again. Failing to do so, will result in invoices being issued without the tax ID.
 
 ## FAQs
 
