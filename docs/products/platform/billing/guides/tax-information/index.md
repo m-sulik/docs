@@ -124,7 +124,7 @@ The following table lists each U.S. state and district that requires us to colle
 
 Many customers using Linode for business or personal reasons may prefer to have Linode automatically calculate any required taxes and add them to each invoice. That said, some registered businesses or organizations may wish to prevent taxes from being added to their Linode invoices. This includes businesses that are tax exempt or businesses that are liable to pay taxes directly to their government's tax agency due to a special tax status or program (like RCM - Reverse Charge Mechanism).
 
-For eligible tax-exempt users in most countries, you can add your VAT or GST tax ID to your Linode account to have taxes removed from your invoices. See [Adde or update a Tax ID](#adding-a-tax-id) below for instructions on how to add your tax ID to your account.
+For eligible tax-exempt users in most countries, you can add your VAT or GST tax ID to your Linode account to have taxes removed from your invoices. See [Add or update a Tax ID](#add-or-update-a-tax-id) below for instructions on how to add your tax ID to your account.
 
 For users within the **United States** and **Canada**, you need to submit both your tax ID and state tax exemption or reseller's certificate via [Support Ticket](https://www.linode.com/support/) rather than adding your tax ID to your Linode account. This must happen before you are eligible to become exempt. Once approved, your tax ID will be added to your account by our team. Note that registered Canadian businesses may become exempt from PST sales tax but will always be billed for GST, HST, and QST sales tax.
 
